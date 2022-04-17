@@ -1,0 +1,27 @@
+.linkstyles{
+text-emphasis-color:blue ;
+text-align: right;
+font-weight: bold;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.titles{
+    font-weight: bold;
+    font-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: sticky;
+}
+
+.paragraph{
+    font-weight: normal;
+    text-decoration: wavy;
+    font-color: orange;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.footer{
+    font-size: small;
+    font-optical-sizing: normal;
+    text-decoration: rgb(red, green, blue);
+    font-stretch: ultra-expanded;
+}
